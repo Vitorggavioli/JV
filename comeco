@@ -1,0 +1,67 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOzxG0gxmY7NzDnBBeFJcBr",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Vitorggavioli/JV/blob/main/comeco\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#nome\n",
+        "nome = input(\"digite seu nome: \")\n",
+        "print(\"foi um prazer em conhcer voce\", nome)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "gHb5UMwySCU5",
+        "outputId": "853f2d56-b7af-475b-e7b5-92b766f90310"
+      },
+      "execution_count": 9,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "digite seu nome: vitor\n",
+            "foi um prazer em conhcer voce vitor\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#"
+      ],
+      "metadata": {
+        "id": "LMtx1zFsTCxl"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
